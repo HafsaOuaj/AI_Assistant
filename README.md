@@ -13,3 +13,11 @@ Before using the AI Assistant, ensure that you have the following prerequisites 
 - ![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black) **dotenv**: For managing environment variables.
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) **Docker**: For containerizing the application.
 - ![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white) **Poetry**: For dependency management and packaging in Python.
+
+## Apps Screens
+![s1](https://github.com/user-attachments/assets/8ba730b2-930a-4b08-a2a9-fdb2498cdfb6)
+![s2](https://github.com/user-attachments/assets/8b439e6c-e60e-4bb7-a262-22f515a2a447)
+![s3](https://github.com/user-attachments/assets/379657aa-3fcb-4154-b664-3a39c54e10d9)
+![s4](https://github.com/user-attachments/assets/7c042fd4-7753-4a6f-a559-4f45bb10ae92)
+![s5](https://github.com/user-attachments/assets/47e997e6-8335-4692-a6b1-0d2b54a6525e)
+![s6](https://github.com/user-attachments/assets/3a1fe4ca-404f-4d32-be3e-d99e0b330f61)
